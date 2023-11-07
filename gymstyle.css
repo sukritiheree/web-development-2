@@ -1,0 +1,107 @@
+
+.nbar{
+    background-color:#264e52;
+    border-radius: 20px;
+}
+.nbar li{
+   
+    float: right;
+    list-style: none;
+    padding: 3px;
+    margin: 7px 12px;
+}
+.nbar ul{
+    overflow: auto;
+}
+.nbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: rgb(255 255 255);
+}
+
+
+body{
+     background-image: url(crop.jpg);
+} 
+
+.btn{
+    padding: 4px;
+    border: none;
+background-color:#264e52;
+color: aliceblue;
+font-size: medium;
+font-family: 'Ubuntu';
+cursor: pointer;}
+.btn:hover{
+   color: #040909;
+}
+.logo{
+    height: 150px;
+    padding: 0px;
+    margin-top: 453px;
+    margin-left: -13px;
+    width: 1528px; 
+    margin-bottom: 0px;
+}
+.bg{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left:0px;
+}
+.main{
+    color: rgb(243, 242, 240);
+    
+    margin: 2px 2px;
+    padding: 2px 2px;
+    width: 60%;
+    border-radius: 2px;
+    
+}
+.form input{
+    text-align: center;
+    display: block;
+    width: 450px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-left: 45px
+    ;
+    
+}
+
+
+#register{
+    margin-left: 182px;
+    width: 158px;
+}
+/* .details{
+    color: rgb(218, 245, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    float: right;
+    border: 1px inset aqua;
+    
+    text-align: center;
+    padding: 3px;
+    margin-top: 20px;
+    font-weight: lighter;
+    font-stretch: extra-expanded;
+}
+.details:hover{
+    background-color: #041f21;
+    border: outset;
+    border-color: rgba(28, 224, 38, 0.888);
+} */
+.social{
+    height: 50px;
+    width: 61px;
+    text-decoration: none;
+
+}
+
+
+p{
+    float: right;
+    font-size: 22px;
+    color: azure;
+}
